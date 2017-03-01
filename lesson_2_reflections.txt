@@ -3,3 +3,6 @@ When we initialize a repository with 'git init' command, it creates .git file so
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area is more like a intermediate stage where files are kept before they are commited to repository. It reminds of files which are waiting to be commited.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By doing the logical change you can move that file to staging area by using 'git add' command. This allows you to move that logical change to staging area and keep doing more changes to working directory file. This also allows you to have one commit per logical change.
