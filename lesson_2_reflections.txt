@@ -6,3 +6,6 @@ staging area is more like a intermediate stage where files are kept before they 
 
 How can you use the staging area to make sure you have one commit per logical change?
 By doing the logical change you can move that file to staging area by using 'git add' command. This allows you to move that logical change to staging area and keep doing more changes to working directory file. This also allows you to have one commit per logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to create new feature which you are not sure about releasing or creating different version for specific purpose creating a branch helps to achieve this to stem from master branch.
