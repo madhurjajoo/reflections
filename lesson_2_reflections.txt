@@ -9,3 +9,6 @@ By doing the logical change you can move that file to staging area by using 'git
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you want to create new feature which you are not sure about releasing or creating different version for specific purpose creating a branch helps to achieve this to stem from master branch.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams helps us to see the commit made from most to least recent commit. This way we know where we are with respect to each branch.
