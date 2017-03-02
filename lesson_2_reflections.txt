@@ -12,3 +12,6 @@ When you want to create new feature which you are not sure about releasing or cr
 
 How do the diagrams help you visualize the branch structure?
 Diagrams helps us to see the commit made from most to least recent commit. This way we know where we are with respect to each branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It merges all the changes done since those branches are created. The representation help to visualize the commits made over time to different branches.
