@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
 when you are not on your machine, you can use remote repository to access your files and make changes or for colloboration purposes.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Doing it automatically would override the changes and commits you have in local repository. So it is always safe to do pull changes manually.
