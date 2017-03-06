@@ -6,3 +6,6 @@ Doing it automatically would override the changes and commits you have in local 
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 'Fork' is used to get the copy of repository from someone else's account and modify on top of it. While 'Clone' is used to get the repository from GitHub to your local machine. And 'Branch' is just to split out of existing commit within a local repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It helps you to compare the local and remote state of repository instantly and you can track the changes.
