@@ -12,3 +12,6 @@ It helps you to compare the local and remote state of repository instantly and y
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Using Git and GitHub is definitely way easier that doing the changes when two or more are working on same file/s. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+when one make new changes which are not ready or approved it is good idea to make those changes in new branch so that master version, which is working version stays intact. So when changes get approved can be merged. Also it helps when someone else make changes on same file using different branch, we can merge changes manually later.
